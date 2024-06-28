@@ -1,0 +1,2 @@
+- Void memory
+- Can only access fields using memory address.

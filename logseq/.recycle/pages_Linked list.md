@@ -1,0 +1,3 @@
+- dynamic arrays
+- stored in [[Heap memory]]
+- non continuous/adjacent

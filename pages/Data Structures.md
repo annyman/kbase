@@ -1,0 +1,5 @@
+- A way to store and **organize** data in a computer so that it can be used **efficiently**. Its types are:
+- Abstract data type (A.D.T.): **define** data and operations but *no* implementation.
+- Implementations: **concrete** ways to implement it in a **language**.
+- e.g. [[Arrays]] , [[Linked list]] , [[Stack]] , [[Queue]] , [[Tree]] , [[Graph]] , etc.
+-
